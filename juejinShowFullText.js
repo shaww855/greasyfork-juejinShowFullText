@@ -2,7 +2,7 @@
 // @name         掘金文章免登录展开全文
 // @namespace    haseeer@gmail.com
 // @version      0.1.1
-// @description  掘金文章免登录展开全文
+// @description  掘金文章免登录自动展开全文
 // @author       shilx
 // @match        https://juejin.im/post/*
 // ==/UserScript==
