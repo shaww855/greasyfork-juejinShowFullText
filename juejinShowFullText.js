@@ -5,7 +5,6 @@
 // @description  掘金文章免登录展开全文
 // @author       shilx
 // @match        https://juejin.im/post/*
-// @grant        none
 // ==/UserScript==
 
 (function() {
